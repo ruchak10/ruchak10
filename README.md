@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, Rucha this side!⚡</h1>
-<h3 align="center">A passionate frontend developer!</h3>
+<h1 align="center">Hello 👋🏻, Rucha this side!⚡</h1>
+<h3 align="center">A passionate developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchak10&label=Profile%20views&color=0e75b6&style=flat" alt="ruchak10" /> </p>
 
-🌱 I’m currently learning **evrythng** <br>
-💬 Ask me about **react, java , android** <br>
+🌱 I’m currently learning **Ruby on Rails** <br>
+💬 Ask me about **React, Java, Python** <br>
 🔭 I’m currently working on [Legal-Vault : A decentralized legal records administration tool](https://github.com/ruchak10/Legal-Vault) <br>
 👨‍💻 All of my projects are available at [https://github.com/ruchak10](https://github.com/ruchak10) <br>
 📫 How to reach me **khedkarrucha106@gmail.com** <br>
-📄 Know about my experiences [resume link](resume link) <br>
-⚡ Fun fact **hello!** <br>
-
+📄 Know about my experiences!<br>
 <br>
 
 <h3 align="left">➼ Tech Stack : </h3>
@@ -28,8 +26,3 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchak10&" alt="ruchak10" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ruchak10&show_icons=true&locale=en" alt="ruchak10" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchak10&show_icons=true&locale=en&layout=compact" alt="ruchak10" /></p>
-<br>
-
-<p>
-<h3 align="left">➼ Random Dev Meme : </h3>
-<h3 align="center"><img src='https://randommeme-five.vercel.app/' style="height:300px;"/></p>
