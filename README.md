@@ -7,7 +7,7 @@
 🌱 I’m currently learning : Ruby on Rails <br>
 💬 Ask me about : React, Java, Python <br>
 🔭 I’m currently working on : (https://github.com/ruchak10/Legal-Vault) <br>
-👨‍💻 All of my projects are available at : [https://github.com/ruchak10] <br>
+👩🏻‍💻 All of my projects are available at : [https://github.com/ruchak10] <br>
 📫 Reach me at : [khedkarrucha106@gmail.com] <br>
 📄 Know about my experiences!<br>
 <br>
