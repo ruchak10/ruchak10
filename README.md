@@ -27,8 +27,8 @@
 
 <div style="text-align: center;">
     <div style="display: inline-block;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ruchak10&show_icons=true&locale=en">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchak10">
+        <img src="https://github-readme-stats.vercel.app/api?username=ruchak10&show_icons=true&locale=en">
     </div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchak10&show_icons=true&locale=en&layout=compact">
