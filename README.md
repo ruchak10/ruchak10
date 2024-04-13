@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchak10&label=Profile%20views&color=0e75b6&style=flat" alt="ruchak10" /> </p>
 
 <h3 align="left">- About Me : </h3>
-🌱 I’m currently learning **Ruby on Rails** <br>
-💬 Ask me about **React, Java, Python** <br>
-🔭 I’m currently working on [Legal-Vault : A decentralized legal records administration tool](https://github.com/ruchak10/Legal-Vault) <br>
-👨‍💻 All of my projects are available at [https://github.com/ruchak10](https://github.com/ruchak10) <br>
-📫 How to reach me **khedkarrucha106@gmail.com** <br>
+🌱 I’m currently learning : Ruby on Rails <br>
+💬 Ask me about : React, Java, Python <br>
+🔭 I’m currently working on : (https://github.com/ruchak10/Legal-Vault) <br>
+👨‍💻 All of my projects are available at : [https://github.com/ruchak10] <br>
+📫 Reach me at : [khedkarrucha106@gmail.com] <br>
 📄 Know about my experiences!<br>
 <br>
 
@@ -24,6 +24,18 @@
 <br>
 
 <h3 align="left">- Github Stats : </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchak10&show_icons=true&locale=en&layout=compact" alt="ruchak10" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ruchak10&show_icons=true&locale=en" alt="ruchak10" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchak10&" alt="ruchak10" /></p>
+
+<div style="text-align: center;">
+    <div style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ruchak10&show_icons=true&locale=en">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchak10">
+    </div>
+    <br>
+    <div style="margin: 0 auto; width: fit-content;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchak10&show_icons=true&locale=en&layout=compact">
+    </div>
+</div>
+
+
+
+
