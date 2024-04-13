@@ -30,8 +30,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ruchak10&show_icons=true&locale=en">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchak10">
     </div>
-    <br>
-    <div style="margin: 0 auto; width: fit-content;">
+    <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchak10&show_icons=true&locale=en&layout=compact">
     </div>
 </div>
